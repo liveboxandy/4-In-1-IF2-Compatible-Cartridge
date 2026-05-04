@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ZX Cartridge") (type "KiCad") (uri "${KIPRJMOD}/SYM/ZX Cartridge.kicad_sym") (options "") (descr ""))
+)
